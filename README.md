@@ -17,7 +17,7 @@ I'm Arianna McKenzie (formerly Mihu), a student at Brigham Young University-Idah
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/arianna-mckenzie-427983250/) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 
 
