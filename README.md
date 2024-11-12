@@ -8,7 +8,6 @@ I'm Arianna McKenzie (formerly Mihu), a student at Brigham Young University-Idah
 
 - I'm currently learning how to write integration and unit tests.
 - My goals are to become a proficient full-stack developer, and to be a more efficient tester.
-- Ask me about node!
 
 ## Technologies and Tools
 
